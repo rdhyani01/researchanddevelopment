@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+}
+* {
+  color: white;
+}
+h1 {
+  text-shadow: 10px;
+  font-family: Chiller;
+  font-size: 600%;
+  text-align: center;
+  background-color: black;
+  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+h2,h3 {
+  font-family: Harrington;
+  text-align: right;
+  margin-right: 5px;
+}
+Image{
+  max-width: 100%;
+}
+#leftpane {
+  margin-left: 5px;
+  text-align: left;
+  font-size: 150%;
+  font-family: Harrington;
+}
+p.center{
+  text-align: center;
+  font-size: 300%;
+  font-family: Chiller;
+}
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  text-decoration: none;
+}
+a:hover{
+  color: yellow;
+  text-decoration: none;
+}
+a:active{
+  text-decoration: none;
+}
