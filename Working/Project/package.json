@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "unit test project",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "app.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdhyani01/researchanddevelopment.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Rahul Dhyani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdhyani01/researchanddevelopment/issues"
+  },
+  "homepage": "https://github.com/rdhyani01/researchanddevelopment#readme"
+}
